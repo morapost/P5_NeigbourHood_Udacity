@@ -7,9 +7,7 @@ walking distance from each attraction.
 
 ## Getting started!
 
-1. You can access the Neighborhood Map here: http://ryguy860.github.io/Neighborhood-Map/
-2. You can fork this project at https://github.com/RyGuy860/Neighborhood-Map.git
-3. You can then clone this project to your local host.
+1. You can access the Neighborhood Map here: http://morapost.github.io/P5_NeigbourHood_Udacity/ 2. You can fork this project at https://github.com/morapost/P5_NeigbourHood_Udacity 3. You can then clone this project to your local host.
 4. Click on the index.html file and load the Neighborhood map in the browser of your choice.
 
 ## How to use the map..
